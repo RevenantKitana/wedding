@@ -194,7 +194,7 @@ export default function App() {
             lineHeight: 1.05, fontWeight: 500, marginBottom: "0.3em",
             textShadow: "0 2px 40px rgba(0,0,0,0.3)"
           }}>
-            Ngọc Anh
+            Quốc Khánh
           </p>
           <p style={{
             color: "#c9a96e", fontFamily: "var(--font-sans)",
@@ -206,7 +206,7 @@ export default function App() {
             lineHeight: 1.05, fontWeight: 500, marginBottom: "2rem",
             textShadow: "0 2px 40px rgba(0,0,0,0.3)"
           }}>
-            Minh Khôi
+            Kim Liên
           </p>
           <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: "1rem" }}>
             <div style={{ width: 48, height: 1, background: "#c9a96e", opacity: 0.7 }}/>
@@ -270,7 +270,7 @@ export default function App() {
             fontFamily: "var(--font-sans)", fontSize: "1rem", lineHeight: 2,
             color: "rgba(28,46,28,0.75)", fontWeight: 300, maxWidth: 560, margin: "0 auto 32px"
           }}>
-            Với tất cả tình cảm trân trọng và niềm vui khôn tả, chúng tôi — <strong style={{ fontWeight: 400, color: "#1c2e1c" }}>Ngọc Anh &amp; Minh Khôi</strong> — trân trọng kính mời bạn đến chung vui và chứng kiến ngày trọng đại trong cuộc đời chúng tôi.
+            Với tất cả tình cảm trân trọng và niềm vui khôn tả, chúng tôi — <strong style={{ fontWeight: 400, color: "#1c2e1c" }}>Quốc Khánh &amp; Kim Liên</strong> — trân trọng kính mời bạn đến chung vui và chứng kiến ngày trọng đại trong cuộc đời chúng tôi.
           </p>
           <p style={{
             fontFamily: "var(--font-sans)", fontSize: "0.95rem", lineHeight: 2,
@@ -312,21 +312,21 @@ export default function App() {
             {[
               {
                 year: "2019", label: "Lần Đầu Gặp Nhau",
-                text: "Tháng 9 năm 2019, trong một buổi hội thảo nhỏ ở Đà Nẵng, Khôi vô tình ngồi cạnh Anh. Một cái nhìn thoáng qua, một nụ cười e lệ — và câu chuyện bắt đầu từ đây.",
+                text: "Tháng 9 năm 2019, trong một buổi hội thảo nhỏ ở Đà Nẵng, Khánh vô tình ngồi cạnh Liên. Một cái nhìn thoáng qua, một nụ cười e lệ — và câu chuyện bắt đầu từ đây.",
                 img: "https://images.unsplash.com/photo-1715285977619-6d9357168f46?w=500&h=350&fit=crop&auto=format",
                 alt: "Cặp đôi gặp nhau lần đầu",
                 side: "left"
               },
               {
                 year: "2020", label: "Yêu Nhau",
-                text: "Mùa hè 2020, sau bao nhiêu tin nhắn và cuộc gọi đêm khuya, Khôi đã nói lên điều mà cả hai đều cảm nhận. Từ đó, mỗi ngày trôi qua đều có nhau.",
+                text: "Mùa hè 2020, sau bao nhiêu tin nhắn và cuộc gọi đêm khuya, Khánh đã nói lên điều mà cả hai đều cảm nhận. Từ đó, mỗi ngày trôi qua đều có nhau.",
                 img: "https://images.unsplash.com/photo-1655901856612-a7f76949fb80?w=500&h=350&fit=crop&auto=format",
                 alt: "Cặp đôi yêu nhau",
                 side: "right"
               },
               {
                 year: "2024", label: "Cầu Hôn",
-                text: "Một buổi chiều tháng 3 năm 2024 trên bãi biển Hội An, Khôi quỳ gối xuống. Giữa tiếng sóng biển và ánh hoàng hôn vàng rực, Anh nói 'Có'.",
+                text: "Một buổi chiều tháng 3 năm 2024 trên bãi biển Hội An, Khánh quỳ gối xuống. Giữa tiếng sóng biển và ánh hoàng hôn vàng rực, Liên nói 'Có'.",
                 img: "https://images.unsplash.com/photo-1571753217087-980e556e16ea?w=500&h=350&fit=crop&auto=format",
                 alt: "Cầu hôn lãng mạn",
                 side: "left"
@@ -415,7 +415,7 @@ export default function App() {
             <div className="reveal" style={{ paddingBottom: 60 }}>
               <img
                 src="https://images.unsplash.com/photo-1492175742197-ed20dc5a6bed?w=500&h=700&fit=crop&auto=format"
-                alt="Cô dâu Ngọc Anh"
+                alt="Cô dâu Phan Kim Liên"
                 style={{ width: "100%", height: 420, objectFit: "cover", objectPosition: "top", filter: "saturate(0.8)" }}
               />
               <div style={{ paddingTop: 24, paddingLeft: 8 }}>
@@ -423,7 +423,7 @@ export default function App() {
                   CÔ DÂU
                 </p>
                 <h3 className="font-serif" style={{ fontSize: "1.5rem", fontStyle: "italic", marginBottom: 10 }}>
-                  Ngọc Anh
+                  Phan Kim Liên
                 </h3>
                 <p style={{ fontFamily: "var(--font-sans)", fontSize: "0.82rem", lineHeight: 1.8, color: "rgba(28,46,28,0.6)", fontWeight: 300 }}>
                   Người con gái với nụ cười ấm áp và trái tim chứa đầy yêu thương.
@@ -435,7 +435,7 @@ export default function App() {
             <div className="reveal reveal-delay-1">
               <img
                 src="https://images.unsplash.com/photo-1607357910286-1ff94ac13c24?w=700&h=950&fit=crop&auto=format"
-                alt="Ngọc Anh và Minh Khôi"
+                alt="Quốc Khánh và Kim Liên"
                 style={{ width: "100%", height: 580, objectFit: "cover", filter: "saturate(0.8)" }}
               />
               <div style={{ marginTop: 24, textAlign: "center" }}>
@@ -450,7 +450,7 @@ export default function App() {
             <div className="reveal reveal-delay-2" style={{ paddingTop: 60 }}>
               <img
                 src="https://images.unsplash.com/photo-1606216769783-a7dbe227a17f?w=500&h=700&fit=crop&auto=format"
-                alt="Chú rể Minh Khôi"
+                alt="Chú rể Nguyễn Quốc Khánh"
                 style={{ width: "100%", height: 420, objectFit: "cover", objectPosition: "top", filter: "saturate(0.8)" }}
               />
               <div style={{ paddingTop: 24, paddingLeft: 8 }}>
@@ -458,7 +458,7 @@ export default function App() {
                   CHÚ RỂ
                 </p>
                 <h3 className="font-serif" style={{ fontSize: "1.5rem", fontStyle: "italic", marginBottom: 10 }}>
-                  Minh Khôi
+                  Nguyễn Quốc Khánh
                 </h3>
                 <p style={{ fontFamily: "var(--font-sans)", fontSize: "0.82rem", lineHeight: 1.8, color: "rgba(28,46,28,0.6)", fontWeight: 300 }}>
                   Người đàn ông trầm lặng nhưng ân cần, luôn là bến bờ bình yên.
@@ -480,7 +480,7 @@ export default function App() {
               Lễ Thành Hôn
             </h2>
             <p className="font-serif" style={{ fontStyle: "italic", color: "#c9a96e", fontSize: "1.1rem", marginBottom: 60 }}>
-              Ngọc Anh &amp; Minh Khôi
+              Quốc Khánh &amp; Kim Liên
             </p>
           </div>
 
@@ -598,7 +598,7 @@ export default function App() {
                 Với yêu thương,
               </p>
               <p className="font-serif" style={{ fontSize: "1.5rem", marginTop: 8 }}>
-                Ngọc Anh &amp; Minh Khôi
+                Quốc Khánh &amp; Kim Liên
               </p>
             </div>
           </div>
@@ -813,7 +813,7 @@ export default function App() {
             color: "#f8f3eb", fontSize: "clamp(2.5rem, 7vw, 5.5rem)",
             lineHeight: 1.1, fontWeight: 500, marginBottom: "0.2em"
           }}>
-            Ngọc Anh
+            Quốc Khánh
           </p>
           <p style={{
             color: "#c9a96e", fontFamily: "var(--font-sans)",
@@ -823,7 +823,7 @@ export default function App() {
             color: "#f8f3eb", fontSize: "clamp(2.5rem, 7vw, 5.5rem)",
             lineHeight: 1.1, fontWeight: 500, marginBottom: "2.5rem"
           }}>
-            Minh Khôi
+            Kim Liên
           </p>
           <p className="font-serif" style={{
             color: "#c9a96e", fontStyle: "italic",
@@ -853,7 +853,7 @@ export default function App() {
           fontFamily: "var(--font-sans)", fontSize: "0.6rem",
           letterSpacing: "0.25em", color: "rgba(248,243,235,0.3)"
         }}>
-          NGỌC ANH &amp; MINH KHÔI · 15.03.2025 · HỘI AN
+          QUỐC KHÁNH &amp; KIM LIÊN · 15.03.2025 · HỘI AN
         </p>
       </footer>
     </div>
