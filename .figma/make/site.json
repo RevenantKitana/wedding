@@ -1,7 +1,9 @@
 {
-  "description": "Creates elegant Vietnamese digital wedding invitations with cinematic design, personalized RSVP, photo galleries, and heartfelt storytelling for a memorable guest experience.",
+  "title": "Thiệp Cưới Quốc Khánh & Kim Liên",
+  "description": "Thiệp cưới Nguyễn Quốc Khánh & Phan Kim Liên — Trân trọng kính mời quý khách đến chung vui và chứng kiến ngày trọng đại trong cuộc đời chúng tôi.",
+  "language": "vi",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
