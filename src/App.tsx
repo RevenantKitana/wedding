@@ -264,7 +264,7 @@ export default function App() {
             fontSize: "clamp(1.3rem, 3vw, 1.8rem)", fontStyle: "italic",
             color: "#7a9e7e", marginBottom: 40, fontWeight: 400
           }}>
-            Anh Tuấn &amp; Gia đình
+            Quý Khách &amp; Gia Đình
           </p>
           <p style={{
             fontFamily: "var(--font-sans)", fontSize: "1rem", lineHeight: 2,
