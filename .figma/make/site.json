@@ -1,0 +1,10 @@
+{
+  "description": "Creates elegant Vietnamese digital wedding invitations with cinematic design, personalized RSVP, photo galleries, and heartfelt storytelling for a memorable guest experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
